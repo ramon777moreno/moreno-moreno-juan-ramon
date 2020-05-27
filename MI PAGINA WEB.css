@@ -1,0 +1,17 @@
+body{
+	background: #00CCCC
+    }
+	
+	
+label{
+	font-size:12px;
+}
+input, textarea{
+	margin-bottom:20px;
+	width:100%;
+	padding:10px;
+	border:1px solid #000000;
+}
+input:focus{
+	border:2px solid #7FFF00
+}
